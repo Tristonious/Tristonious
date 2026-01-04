@@ -20,4 +20,4 @@ I am a biomedical informatics graduate student with experience in:
 
 📫 Email: tristantjones1@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/tristantj/
-📄 Resume: [Download PDF](https://github.com/Tristonious/Resume/blob/main/TristanJones_Resume_010226.pdf)
+📄 Resume: [Download PDF](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_010226.pdf)
