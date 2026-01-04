@@ -18,6 +18,6 @@ I am a biomedical informatics graduate student with experience in:
 - CT Imaging Preprocessing & Registration Pipeline (public demo)
 - Multimodal Biomedical Data ETL Workflow (public demo)
 
-📫 Email: tristantjones1@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/tristantj/
-📄 Resume: [Download PDF](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_010226.pdf)
+Email: tristantjones1@gmail.com 
+LinkedIn: https://www.linkedin.com/in/tristantj/
+Resume: [Download PDF](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_010226.pdf)
