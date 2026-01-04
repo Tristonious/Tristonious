@@ -1,16 +1,23 @@
-## Hi there 👋
+## Tristan Jones
+Biomedical Informatics Graduate Student | Medical Imaging & Clinical Data
 
-<!--
-**Tristonious/Tristonious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a biomedical informatics graduate student with experience in:
+- Medical imaging preprocessing and harmonization (CT, MRI, MEG, EEG)
+- ETL-style biomedical data workflows
+- Imaging-derived biomarker analysis
+- IRB-compliant human subjects research
+- ML/AI Applications in Biomedical Informatics
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Personalized Medicine
+- Public Health Genomics
+- Medical Imaging Informatics
+- Applied Data Science in Healthcare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+- CT Imaging Preprocessing & Registration Pipeline (public demo)
+- Multimodal Biomedical Data ETL Workflow (public demo)
+
+📫 Email: tristantjones1@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/tristantj/
+📄 Resume: (optional)
