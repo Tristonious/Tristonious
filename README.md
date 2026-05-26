@@ -1,9 +1,7 @@
 # Tristan Jones
 Biomedical Informatics M.S. | Medical Imaging · Clinical Data Science · ML/AI in Healthcare
 
-Email: tristantjones1@gmail.com 
-LinkedIn: https://www.linkedin.com/in/tristantj/
-Resume: [Download PDF](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_052526.pdf)
+Email: tristantjones1@gmail.com · [LinkedIn](https://www.linkedin.com/in/tristantj/) · [Resume](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_052526.pdf)
 
 ---
 
@@ -15,13 +13,15 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 
 ## Skills
 
-**Programming:** Python, R, MATLAB, NumPy, pandas, SciPy, dplyr, ggplot2
+**Programming & Algorithms:** Python, R, MATLAB, NumPy, pandas, SciPy, dplyr, ggplot2, data structures & algorithms, time/space complexity
 
-**ML/DL:** scikit-learn, TensorFlow/Keras, XGBoost, random forest, CNNs, VAEs, GANs, PCA
+**AI/ML/DL:** scikit-learn, TensorFlow/Keras, random forest, XGBoost, KNN, PCA, CNNs, autoencoders, VAEs, GANs, Grad-CAM, classification, anomaly detection, cross-validation, ROC/AUROC, model evaluation
 
-**Imaging & Signal:** CT, MRI, MEG, EEG, NIfTI, DICOM, TotalSegmentator, registration, segmentation
+**Imaging & Signal Data:** CT, MRI, MEG, EEG, NIfTI, DICOM, TotalSegmentator, registration, segmentation, spatial normalization
 
-**Clinical/Research:** ETL workflows, data cleaning, QC, IRB documentation, clinical data governance
+**Clinical/Research:** ETL workflows, data cleaning, QC, IRB documentation, clinical data governance, human subjects research
+
+**Project Management:** Trello, Kanban boards, sprint planning, task tracking, workflow documentation, reproducible pipeline design
 
 ---
 
