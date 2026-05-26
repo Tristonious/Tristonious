@@ -28,20 +28,21 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 ## Projects
 
 ### Medical Imaging & Clinical Data
-- [Probabilistic CT Liver Atlas for Distance-to-Vasculature Estimation](https://github.com/Tristonious) — Graduate Capstone
-- [ICU Length-of-Stay Analytics with MIMIC-IV](https://github.com/Tristonious)
+- [Probabilistic CT Liver Atlas for Distance-to-Vasculature Estimation](https://github.com/Tristonious) — Graduate Capstone *(Sept 2025 – May 2026)*
+- [ICU Length-of-Stay Analytics with MIMIC-IV](https://github.com/Tristonious) *(Apr – May 2025)*
 
 ### Deep Learning & Generative Models
-- [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious)
-- [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious)
-- [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious)
+- [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious) *(Nov – Dec 2025)*
+- [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious) *(Sept 2025)*
+- [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious) *(Oct 2025)*
 
 ### Machine Learning & Predictive Modeling
-- [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious)
-- [Facial Emotion Recognition with PCA and ML Classifiers](https://github.com/Tristonious)
+- [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious) *(Jan – May 2026)*
+- [Facial Emotion Recognition with PCA and ML Classifiers](https://github.com/Tristonious) *(Apr – May 2025)*
 
 ### Algorithms & Computational Methods
-- [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious)
+- [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious) *(Mar – May 2026)*
 
 ### Genomics & Biomedical Ethics
-- [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious)
+- [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious) *(Oct – Nov 2025)*
+
