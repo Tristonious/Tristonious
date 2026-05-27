@@ -41,7 +41,7 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 - [Facial Emotion Recognition with PCA and ML Classifiers](https://github.com/Tristonious) *(Apr – May 2025)*
 
 ### Algorithms & Computational Methods
-- [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious) *(Mar – May 2026)*
+- [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious/nearest-neighbor-search) *(Mar – May 2026)*
 
 ### Genomics & Biomedical Ethics
 - [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious) *(Oct – Nov 2025)*
