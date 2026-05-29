@@ -34,7 +34,7 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 ### Deep Learning & Generative Models
 - [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious) *(Nov – Dec 2025)*
 - [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious) *(Sept 2025)*
-- [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious) *(Oct 2025)*
+- [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious/image-classification-gradcam) *(Oct 2025)*
 
 ### Machine Learning & Predictive Modeling
 - [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious/papers) *(Jan – May 2026)*
