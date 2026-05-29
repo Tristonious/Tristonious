@@ -37,7 +37,7 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 - [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious) *(Oct 2025)*
 
 ### Machine Learning & Predictive Modeling
-- [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious) *(Jan – May 2026)*
+- [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious/papers) *(Jan – May 2026)*
 - [Facial Emotion Recognition with PCA and ML Classifiers](https://github.com/Tristonious/facial_emotion_recognition) *(Apr – May 2025)*
 
 ### Algorithms & Computational Methods
