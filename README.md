@@ -44,5 +44,5 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 - [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious/nearest-neighbor-search) *(Mar – May 2026)*
 
 ### Genomics & Biomedical Ethics
-- [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious) *(Oct – Nov 2025)*
+- [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious/papers) *(Oct – Nov 2025)*
 
