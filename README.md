@@ -29,7 +29,6 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 
 ### Medical Imaging & Clinical Data
 - [Probabilistic CT Liver Atlas for Distance-to-Vasculature Estimation](https://github.com/Tristonious) — Graduate Capstone *(Sept 2025 – May 2026)*
-- [ICU Length-of-Stay Analytics with MIMIC-IV](https://github.com/Tristonious) *(Apr – May 2025)*
 
 ### Deep Learning & Generative Models
 - [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious/vae-anomaly-detection) *(Nov – Dec 2025)*
