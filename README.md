@@ -32,7 +32,7 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 - [ICU Length-of-Stay Analytics with MIMIC-IV](https://github.com/Tristonious) *(Apr – May 2025)*
 
 ### Deep Learning & Generative Models
-- [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious) *(Nov – Dec 2025)*
+- [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious/vae-anomaly-detection) *(Nov – Dec 2025)*
 - [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious/cifar10-autoencoder) *(Sept 2025)*
 - [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious/image-classification-gradcam) *(Oct 2025)*
 
