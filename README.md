@@ -32,6 +32,7 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 
 ### Deep Learning & Generative Models
 - [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious/vae-anomaly-detection) *(Nov – Dec 2025)*
+- [GAN for MNIST Digit Generation](https://github.com/Tristonious/mnist-gan) *(Nov 2025)*
 - [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious/cifar10-autoencoder) *(Sept 2025)*
 - [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious/image-classification-gradcam) *(Oct 2025)*
 
@@ -44,4 +45,5 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 
 ### Genomics & Biomedical Ethics
 - [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious/papers) *(Oct – Nov 2025)*
+
 
