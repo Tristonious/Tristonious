@@ -26,24 +26,19 @@ Biomedical Informatics M.S. graduate with experience in medical imaging pipeline
 ---
 
 ## Projects
-
 ### Medical Imaging & Clinical Data
 - [Probabilistic CT Liver Atlas for Distance-to-Vasculature Estimation](https://github.com/Tristonious/liver-atlas-capstone) — Graduate Capstone *(Sept 2025 – May 2026)*
-
 ### Deep Learning & Generative Models
 - [Variational Autoencoder for Image Anomaly Detection](https://github.com/Tristonious/vae-anomaly-detection) *(Nov – Dec 2025)*
 - [GAN for MNIST Digit Generation](https://github.com/Tristonious/mnist-gan) *(Nov 2025)*
+- [SENet Attention Modules in VGG16](https://github.com/Tristonious/senet-vgg16) *(Nov 2025)*
 - [Convolutional Autoencoder for CIFAR-10 Image Reconstruction](https://github.com/Tristonious/cifar10-autoencoder) *(Sept 2025)*
 - [VGG16 Image Classification and Grad-CAM Explainability](https://github.com/Tristonious/image-classification-gradcam) *(Oct 2025)*
-
 ### Machine Learning & Predictive Modeling
 - [Interpretable ML for K–12 Student Outcome Prediction](https://github.com/Tristonious/papers) *(Jan – May 2026)*
 - [Facial Emotion Recognition with PCA and ML Classifiers](https://github.com/Tristonious/facial_emotion_recognition) *(Apr – May 2025)*
-
 ### Algorithms & Computational Methods
 - [Nearest-Neighbor Search: Brute Force, KD-Tree, and ANN](https://github.com/Tristonious/nearest-neighbor-search) *(Mar – May 2026)*
-
 ### Genomics & Biomedical Ethics
 - [Genomic Data Equity, Polygenic Risk Scores, and Ancestry Representation](https://github.com/Tristonious/papers) *(Oct – Nov 2025)*
-
 
