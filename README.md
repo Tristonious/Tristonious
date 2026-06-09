@@ -1,7 +1,7 @@
 # Tristan Jones
 Biomedical Informatics M.S. | Medical Imaging · Clinical Data Science · ML/AI in Healthcare
 
-Email: tristantjones1@gmail.com · [LinkedIn](https://www.linkedin.com/in/tristantj/) · [Resume](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_052526.pdf)
+Email: tristantjones1@gmail.com · [LinkedIn](https://www.linkedin.com/in/tristantj/) · [Resume](https://github.com/Tristonious/Resume/raw/main/TristanJones_Resume_060926.pdf)
 
 ---
 
