@@ -7,7 +7,7 @@ Email: tristantjones1@gmail.com · [LinkedIn](https://www.linkedin.com/in/trista
 
 Biomedical Informatics M.S. graduate with experience in medical imaging pipelines, biomedical data analysis, machine learning, neurodiagnostics, and clinical research. My work sits at the intersection of computation and healthcare — building reproducible workflows on complex, high-dimensional data.
 
-**Interests:** Personalized Medicine · Public Health Genomics · Medical Imaging Informatics · Neurodiagnositics · Brain-Computer Interfaces
+**Interests:** Personalized Medicine · Public Health Genomics · Medical Imaging Informatics · Neurodiagnostics · Brain-Computer Interfaces
 
 ---
 
